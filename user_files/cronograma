@@ -1,0 +1,52 @@
+		Agostoiv::{{
+		✅ Lista de Chequeo - Semana 1:: Enlace Inicial del Proyecto YOGA,,
+		🎯 Objetivos técnicos para Yoga::
+		Verificar y documentar entornos existentes (frontend, backend, BD).,,
+		Establecer conexión entre backend y base de datos.,,
+		Establecer conexión entre frontend y backend.,,
+		Definir endpoints prioritarios y rutas esenciales para pruebas.,,
+		Verificar funcionamiento mínimo del flujo completo (ej. login, registro, etc.).,,
+		Documentar lo avanzado y problemas detectados.,,
+		📅 Distribución Sugerida (Lunes a Viernes)::
+		ayuda::Cada día tiene una mañana técnica (8 a 12) y una tarde compartida (1 a 4) entre estudio y supervisión.,,
+		🗓️ Lunes::
+		8:00 - 9:00:: Revisión general del estado actual de YOGA (repositorios, ramas activas, documentación, estructura).,,
+		9:00 - 11:00:: Chequeo del backend: revisión de entorno, dependencias, estructura del proyecto, configuraciones base.,,
+		11:00 - 12:00:: Verificar estructura de base de datos, revisar si ya hay esquemas definidos o migraciones.,,
+		1:00 - 2:30:: Estudio de mecánica automotriz.,,
+		2:30 - 4:00:: Revisión de proyectos externos y avances de CORAL.,,
+		🗓️ Martes::
+		8:00 - 10:00:: Enlace backend ↔ base de datos (pruebas de conexión, configuración de entorno .env, pruebas locales).,,
+		10:00 - 12:00:: Primer endpoint funcional (por ejemplo: /users o /auth/login) y test con Postman o similar.,,
+		1:00 - 2:30:: Estudio mecánica.,,
+		2:30 - 4:00:: Seguimiento a tareas de otros proyectos + revisión rápida de errores CORAL.,,
+		🗓️ Miércoles::
+		8:00 - 10:00:: Revisión del frontend: dependencias, estructura, frameworks usados.,,
+		10:00 - 12:00:: Iniciar conexión frontend ↔ backend (axios/fetch config, entorno de desarrollo).,,
+		1:00 - 2:30:: Estudio mecánica.,,
+		2:30 - 4:00:: Revisión de feedback de proyectos + decisiones técnicas pequeñas.,,
+		🗓️ Jueves::
+		8:00 - 10:00:: Pruebas de flujo completo (frontend -> backend -> base de datos).,,
+		10:00 - 12:00:: Análisis de errores, logs, ajustes rápidos.,,
+		1:00 - 2:30:: Estudio mecánica.,,
+		2:30 - 4:00:: Supervisión externa + reunión corta si es posible con stakeholders.,,
+		🗓️ Viernes::
+		8:00 - 10:00:: Documentación de avances: qué funciona, qué falta, qué decisiones se tomaron.,,
+		10:00 - 12:00:: Crear issues/tareas para la semana siguiente.,,
+		1:00 - 2:30:: Estudio mecánica.,,
+		2:30 - 4:00:: Revisión final de la semana, ajustes urgentes, planificación ligera.,,
+		📋 Lista de Chequeo Técnica (para marcar cada ítem esta semana)::
+		Tarea::Estado::Responsable::Observaciones,,  
+		Revisión de entornos en GitHub::☐::Tú::Confirmar ramas activas,,  
+		Backend funcional localmente::☐::Tú::Test con Postman,,  
+		Base de datos conectada::☐::Tú::Usar ORM o conexión directa,,  
+		Frontend revisado y montado::☐::Tú::Verificar estructura de carpetas,,  
+		Conexión frontend ↔ backend::☐::Tú::Test desde navegador,,  
+		Flujo funcional (login o demo)::☐::Tú::End-to-end mínimo,,  
+		Documentación básica generada::☐::Tú::README o Notion,,  
+		Lista de tareas para próxima semana::☐::Tú::A partir del viernes,,  
+
+		Postdata:: 
+		  Clases y lab de RDii
+		Informe:: ,,
+		}}
